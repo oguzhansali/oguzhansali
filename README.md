@@ -1,5 +1,4 @@
 [![MasterHead](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)]
-
 <h1 align="center">Hi 👋, I'm Oğuzhan Sali</h1>
 <h3 align="center">A passionate Fullstack Developer from Türkiye</h3>
 
