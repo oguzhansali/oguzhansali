@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Fullstack Developer from Türkiye</h3>
 
 
-- 🌱 I’m currently learning **Spring Framework , HTML, CSS**
+- 🌱 I’m currently learning **Java, Spring Framework, HTML, CSS**
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **Java, Python and HTML**
 
 - 📫 How to reach me **salioguzhan.61@gmail.com**
 
