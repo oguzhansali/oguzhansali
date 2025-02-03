@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Developer from Türkiye</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring Framework, HTML, CSS**
+- 🌱 I’m currently learning **Java, Spring Framework, HTML, CSS, JavaScript**
 
 - 💬 Ask me about **Java, Python and HTML**
 
